@@ -2,29 +2,29 @@ import { Heading } from "@medusajs/ui";
 import Image from 'next/image';
 
 const leadership = [
-  { name: 'Priyaranjan Kumar', designation: 'Founder/CEO', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  { name: 'Archana Kumar', designation: '', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  { name: 'Swami Purnatej Ji', designation: '', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  { name: 'BalaKrishna L.', designation: '', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  { name: 'Satyavathi B.', designation: '', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
+  { name: 'Priyaranjan Kumar', designation: 'Founder/CEO', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  { name: 'Archana Kumar', designation: '', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  { name: 'Swami Purnatej Ji', designation: '', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  { name: 'BalaKrishna L.', designation: '', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  { name: 'Satyavathi B.', designation: '', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
   // Add more leadership members as needed
 ];
 
 const honoraryAdvisors = [
-  { name: 'Nilotpal K Dutta', designation: 'Honorary Advisor', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  { name: 'Neeraj Kant', designation: 'Honorary Advisor', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  { name: 'Ravi Venkataramanan', designation: 'Honorary Advisor', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  { name: 'L. Gurulingaswamy', designation: 'Honorary Advisor', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  { name: 'Dr. Myra White', designation: 'Honorary Advisor', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  { name: 'Dr. Kameshwar Prasad', designation: 'Honorary Advisor', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
+  { name: 'Nilotpal K Dutta', designation: 'Honorary Advisor', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  { name: 'Neeraj Kant', designation: 'Honorary Advisor', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  { name: 'Ravi Venkataramanan', designation: 'Honorary Advisor', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  { name: 'L. Gurulingaswamy', designation: 'Honorary Advisor', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  { name: 'Dr. Myra White', designation: 'Honorary Advisor', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  { name: 'Dr. Kameshwar Prasad', designation: 'Honorary Advisor', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
   // Add more honorary advisors as needed
 ];
 
 const softwareTeam = [
-  { name: 'Shivam Saluja', designation: '', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  { name: 'Vaibhav Kumar', designation: '', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  //{ name: 'Emily Johnson', designation: 'UI/UX Designer', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
-  //{ name: 'Michael Brown', designation: 'DevOps Engineer', imageUrl: 'http://localhost:9000/uploads/1721452550574-Picture1.jpg' },
+  { name: 'Shivam Saluja', designation: '', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  { name: 'Vaibhav Kumar', designation: '', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  //{ name: 'Emily Johnson', designation: 'UI/UX Designer', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
+  //{ name: 'Michael Brown', designation: 'DevOps Engineer', imageUrl: 'http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg' },
   // Add more software team members as needed
 ];
 

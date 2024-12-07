@@ -9,7 +9,7 @@ const Hero = () => {
     <div className="h-screen w-full border-b border-ui-border-base relative bg-ui-bg-subtle font-sans">
       <div className="w-full h-full relative">
         <Image
-          src="http://localhost:9000/uploads/1721452550574-Picture1.jpg"
+          src="http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg"
           alt="Main Banner"
           layout="fill"
           objectFit="cover"

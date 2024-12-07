@@ -11,7 +11,7 @@ const Founder = () => {
         <div className="flex flex-row items-center">
           <div className="flex-1">
             <Image
-              src="http://localhost:9000/uploads/1721452550574-Picture1.jpg"
+              src="http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg"
               alt="Founder image"
               width={500}
               height={300}
@@ -32,7 +32,7 @@ const Founder = () => {
             {[...Array(4)].map((_, index) => (
               <Image
                 key={index}
-                src="http://localhost:9000/uploads/1721452550574-Picture1.jpg"
+                src="http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg"
                 alt={`Education image ${index + 1}`}
                 width={250}
                 height={150}
@@ -55,7 +55,7 @@ const Founder = () => {
             {[...Array(4)].map((_, index) => (
               <Image
                 key={index}
-                src="http://localhost:9000/uploads/1721452550574-Picture1.jpg"
+                src="http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg"
                 alt={`Experience image ${index + 1}`}
                 width={250}
                 height={150}
@@ -80,7 +80,7 @@ const Founder = () => {
         {/* Mobile screens */}
         <div className="mb-8">
           <Image
-            src="http://localhost:9000/uploads/1721452550574-Picture1.jpg"
+            src="http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg"
             alt="Founder image"
             width={500}
             height={300}
@@ -98,7 +98,7 @@ const Founder = () => {
             {[...Array(4)].map((_, index) => (
               <Image
                 key={index}
-                src="http://localhost:9000/uploads/1721452550574-Picture1.jpg"
+                src="http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg"
                 alt={`Education image ${index + 1}`}
                 width={250}
                 height={150}
@@ -119,7 +119,7 @@ const Founder = () => {
             {[...Array(4)].map((_, index) => (
               <Image
                 key={index}
-                src="http://localhost:9000/uploads/1721452550574-Picture1.jpg"
+                src="http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg"
                 alt={`Experience image ${index + 1}`}
                 width={250}
                 height={150}
