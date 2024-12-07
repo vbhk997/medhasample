@@ -7,7 +7,7 @@ const AboutUs = () => {
       {/* Hero Section */}
       <div className="relative w-full h-[250px] mb-8">
         <Image
-          src="http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/ny.jpg"
+          src="https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/ny.jpg"
           alt="Hero image"
           layout="fill"
           objectFit="cover"
@@ -44,7 +44,7 @@ const AboutUs = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
         <div className="p-4 bg-white rounded-lg shadow-md">
           <Image
-            src="http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg"
+            src="https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg"
             alt="Purpose image"
             width={500}
             height={300}
@@ -56,7 +56,7 @@ const AboutUs = () => {
         </div>
         <div className="p-4 bg-white rounded-lg shadow-md">
           <Image
-            src="http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg"
+            src="https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg"
             alt="Learning agility"
             width={500}
             height={300}

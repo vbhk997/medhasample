@@ -1,6 +1,6 @@
 import axios, { AxiosError, AxiosInstance } from "axios"
 
-axios.defaults.baseURL = process.env.CLIENT_SERVER || "http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app"
+axios.defaults.baseURL = process.env.CLIENT_SERVER || "https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app"
 let region = undefined as any
 
 export async function seedData() {

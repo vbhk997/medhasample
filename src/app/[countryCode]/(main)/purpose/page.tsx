@@ -12,7 +12,7 @@ const Purpose = () => {
           <div key={index} className={`flex ${index % 2 === 0 ? 'flex-row-reverse' : 'flex-row'} items-center`}>
             <div className="flex-1">
               <Image
-                src={`http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg`} // Replace with dynamic paths if needed
+                src={`https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg`} // Replace with dynamic paths if needed
                 alt={`Purpose image ${index + 1}`}
                 width={500} // Adjust size as needed
                 height={300} // Adjust size as needed
@@ -31,7 +31,7 @@ const Purpose = () => {
         {Array.from({ length: 5 }).map((_, index) => (
           <div key={index} className="mb-8">
             <Image
-              src={`http://https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg`} // Replace with dynamic paths if needed
+              src={`https://19fa-2601-985-4103-2e20-8564-b3a8-8523-ea90.ngrok-free.app/uploads/1721452550574-Picture1.jpg`} // Replace with dynamic paths if needed
               alt={`Purpose image ${index + 1}`}
               width={500} // Adjust size as needed
               height={300} // Adjust size as needed
